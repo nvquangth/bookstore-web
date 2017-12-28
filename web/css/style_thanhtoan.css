@@ -1,0 +1,419 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 12, 2017, 9:21:26 AM
+    Author     : NVQuang
+*/
+
+*
+{
+    margin:0;
+    padding: 0;
+}
+
+.top-header
+{
+    font-family: Arial, Verdana, sans-serif;
+    height: 30px;
+    background-color: #EDEDED;
+    line-height: 30px;
+}
+
+.top-header .hotline
+{
+    float: left;
+    margin-left: 100px;
+}
+
+.top-header .hotline::before 
+{
+    content: "";
+    background-image: url(image/phone.png);
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.top-header .dang-nhap::before
+{
+    content: "";
+    background-image: url(image/login.png);
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.top-header .dang-ky::before
+{
+    content: "";
+    background-image: url(image/signup.png);
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
+.top-header .dang-nhap,
+.top-header .dang-ky
+{
+    float: right;
+    margin-right: 100px;
+}
+
+header
+{
+    height: 200px;
+    background-color: #FFF;
+    position: relative;
+}
+
+header .header-content
+{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.logo
+{
+    float: left;
+
+    width: 20%;
+    height: 100px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.logo img
+{
+    width: 100%;
+}
+
+.form-search
+{
+    float: left;
+    width: 40%;
+    position: relative;
+    line-height: 100px;
+}
+.form-search input
+{
+    width: 70%;
+    height: 50px;
+    padding-left: 20px;
+    border: 1px solid #00A2E8;
+}
+.form-search input:focus
+{
+    background-color: #F5F5F5;
+}
+.form-search button
+{
+    width: 20%;
+    height: 50px;
+    background-color: #1a525e;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+
+.info-user
+{
+    margin-top: 25px;
+    float: right;
+    width: 20%;
+    line-height: 50px;
+    background: #80D8FF;
+    border: 1px solid #29B6F6;
+    border-radius: 10px;
+}
+.info-user p
+{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.cart
+{
+    float: left;
+    width: 15%;
+    background-color: green;
+    line-height: 100px;
+}
+.cart p
+{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+nav
+{
+    max-width: 100%;
+    height: 60px;
+    background-color: #337ab7;
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
+    right: 0px;
+    padding-left: 100px;
+}
+
+nav a 
+{
+    font-family: Arial, Verdana, sans-serif;
+    display: inline-block;
+    font-size: 16px;
+    color: #FFF;
+    height: 60px;
+    line-height: 60px;
+    padding: 0 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: background-color 1s;
+}
+nav a:hover 
+{
+    background: #1a525e;
+}
+nav a:focus 
+{
+    background: #1a525e;
+}
+
+main
+{
+    height: 750px;
+    /*background-color: white;*/
+    width: 100%;
+    margin: 0 auto;
+    font-size: 16px;
+    /*color: white;*/
+}
+
+#tbl-cart {
+    margin: 0 auto;
+    width: 75%;
+}
+#tbl-cart td {
+    background-color: #FF2F2F2;
+}
+#tbl-cart table {
+    border-collapse: collapse;
+}
+#tbl-cart th, td {
+    border: 1px solid #008CBA;
+    padding: 0px 5px;
+}
+#tbl-cart {
+    width: 70%;
+    margin-left: 15%;
+}
+#tbl-cart th {
+    height: 50px;
+    text-align: left;
+    background-color: #E0F7FA;
+}
+#tbl-cart td {
+    padding: 5px 0px 5px 5px;
+}
+
+#tbl-cart tr:hover {
+    background-color: #F5F5F5;
+}
+
+.title-cart {
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+#btn-thanhtoan {
+    text-transform: uppercase;
+    background: #00e55f;
+    color: #FFF;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+}
+#btn-thanhtoan:hover {
+    cursor: pointer;
+}
+
+input[type=submit] {
+    text-transform: uppercase;
+    background: #00e55f;
+    color: #FFF;
+    border: none;
+    border-radius: 3px;
+    padding: 5px 10px;
+}
+
+input[type=submit]:hover {
+    cursor: pointer;
+}
+
+footer
+{
+    height: 200px;
+    background-color: yellow;
+}
+
+#footer{
+    width: 100%;
+    background: #000;
+    color: #fff;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+#footer {
+    /*background-color: #040404;*/
+    width: 100%;
+    border-top: 1px solid #cfd5d7;
+    /*position: absolute;*/
+    left: 0;
+}
+#footer > div {
+    width: 960px;
+    margin: 0 auto;
+}
+/** links **/
+#links {
+    display: inline-block;
+    list-style: none;
+    width: 100%;
+    margin: 48px 0 36px;
+    padding: 0;
+}
+#links > li {
+    float: left;
+    width: 220px;
+    margin: 0 10px;
+}
+#links h4 {
+    color: #a6a8a3;
+    font: bold 14px/24px 'OpenSans';
+    margin: 0;
+    text-shadow: 0 1px #671515;
+}
+#links > li ul {
+    list-style: none;
+    width: 190px;
+    margin: 0;
+    padding: 0;
+}
+#links > li ul li {
+    border-bottom: 1px solid #262828;
+    margin: 6px 0 0;
+    padding: 0 0 8px;
+}
+#links > li ul li a {
+    color: #eb983e;
+    font: 12px/24px 'OpenSans';
+    text-decoration: none;
+}
+#links > li ul li a:hover {
+    color: #bab9b8;
+}
+#connect a {
+    display: inline-block;
+    height: 24px;
+    padding-left: 30px;
+}
+#connect a.twitter {
+    background-position: -301px -26px;
+}
+#connect a.facebook {
+    background-position: -301px -80px;
+}
+#connect a.googleplus {
+    background-position: -301px -136px;
+}
+#connect a.twitter:hover {
+    background-position: -301px 2px;
+}
+#connect a.facebook:hover {
+    background-position: -301px -52px;
+}
+#connect a.googleplus:hover {
+    background-position: -301px -108px;
+}
+.footnote {
+    clear: both;
+    color: #6c6e69;
+    font: 10px/24px "Trebuchet MS", Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-shadow: none;
+}
+
+#post {
+    width: 660px;
+    height: 150px;
+    background: #e8e8e8;
+}
+
+#sidebar {
+    width: 100%;
+    height: 100%;
+    background: white;
+}
+
+#book {
+    background-color: aqua;
+    width:  50%;
+    float: left;
+    height: 100%;
+
+}
+
+img
+{
+    border: 0;
+}
+
+a
+{
+    text-decoration: none;
+    color: #FF80A8;
+}
+
+a:hover
+{
+    text-decoration: none;
+    color: #FFF;
+}
+
+#centrecontainer
+{
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    width: 100%;
+}
+
+#outercontainer
+{
+    margin-left: -400px;
+    position: absolute;
+    top: -236px;
+    left: 50%;
+}
+
+#content {
+    background-color: white;
+    width:  50%;
+    float: left;
+    height: 100%;
+}
+
+#sidebar {
+    background-color: #1a525e;
+    width: 50%;
+    float: right;
+    height: 100%;
+}

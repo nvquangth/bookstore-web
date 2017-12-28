@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>Check ISBN</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="./css/style.css">
+    </head>
+    <body>
+        <div id="container">
+            <header>
+                <div class="header-content">
+                    <div class="logo">
+                        <img src="./image/logo.png">
+                    </div>
+
+                    <div class="info-user">
+                        <p><%=khachhang.getFullname()%></p>
+                    </div>
+                </div>
+
+                <nav>
+                    <a href="#">Trang chủ</a>
+                    <a href="#">Giới thiệu</a>
+                    <a href="#">Sản phẩm</a>
+                    <a href="#">Dịch vụ</a>
+                    <a href="#">Liên hệ</a>
+                    <a href="#">check isbn</a>
+                </nav>
+            </header>
+            <main>
+
+                <form class="form-search">
+                    <input id="isbn" type="text" name="keyword" placeholder="Nhập mã isbn">
+                    <button id="search" type="button">Tìm kiếm</button>
+                </form>
+
+                <div class="main_right">
+                    <div class="list-bookq">
+
+                    </div>
+                </div>
+
+            </main>
+        </div>
+        <script src="./js/jquery.js"></script>
+        <script type="text/javascript">
+            $('#search').click(function () {
+                $(".list-bookq").html("");
+                var isbn = $('#isbn').val();
+
+                $.ajax({
+                    url: "https://www.googleapis.com/books/v1/volumes?q=isbn" + isbn,
+                    dataType: "json",
+                    success: function (data) {
+                        console.log(data);
+                        var content = "";
+                        for (var i = 0; i < data.items.length; i++) {
+                            var item = data.items[i];
+                            var title = item.volumeInfo.title;
+                            var publisher = item.volumeInfo.publisher;
+                            var author = item.volumeInfo.authors[0];
+                            var urlImage;
+                            if (item.volumeInfo.hasOwnProperty('imageLinks')) {
+                                urlImage = item.volumeInfo.imageLinks.thumbnail;
+                            }
+                            
+                            content = content +
+                                    "<div class='bookq-container'>" +
+                                        "<div class='bookq'>" +
+                                            "<img class='photo-bookq' src='" + urlImage + "' />" +
+                                            "<div class='info_book'>" +
+                                                "<p class='name-bookq'>" + title + "</p>" +
+                                                "<p class='author-bookq'>" + author + "</p>" +
+                                            "</div>" +
+                                        "</div>" +
+                                    "</div>"
+                        }
+                        $(".list-bookq").append(content);
+                    },
+                    type: 'GET'
+                });
+
+            });
+
+//            document.getElementById('button').addEventListener('click', getBookDetails, false)
+
+        </script>
+    </body>
+</html>

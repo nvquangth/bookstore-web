@@ -1,0 +1,898 @@
+[
+{
+	"ma": 1,
+	"ten": "Digital Fortress",
+	"gia": 150.0,
+	"tacgia": "Dan Brown",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 5,
+	"linkImage": "digital-fortress.jpg",
+	"date": "2017-10-01"
+},
+{
+	"ma": 2,
+	"ten": "The Da Vinci code",
+	"gia": 90.0,
+	"tacgia": "DanBrown",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 5,
+	"linkImage": "the-da-vinci-code.jpg",
+	"date": "2017-11-01"
+},
+{
+	"ma": 3,
+	"ten": "Cô gái năm ấy chúng ta cùng theo đuổi",
+	"gia": 120.0,
+	"tacgia": "Cửu Bả Đao",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 4,
+	"linkImage": "co-gai-nam-ay-chung-ta-cung-theo-duoi.jpg",
+	"date": "2017-04-20"
+},
+{
+	"ma": 4,
+	"ten": "Ký ức thời bao cấp",
+	"gia": 232.0,
+	"tacgia": "Nhiều tác giả",
+	"theloai": "Truyện ngắn",
+	"danhgia": 4,
+	"linkImage": "ky-uc-thoi-bao-cap.jpg",
+	"date": "2017-08-28"
+},
+{
+	"ma": 5,
+	"ten": "Tony-Buổi sáng trên đường băng",
+	"gia": 64.0,
+	"tacgia": "Tony Buổi sáng",
+	"theloai": "Nhật ký",
+	"danhgia": 5,
+	"linkImage": "tren-duong-bang.jpg",
+	"date": "2017-10-17"
+},
+{
+	"ma": 6,
+	"ten": "Bất định về học thuật",
+	"gia": 100.0,
+	"tacgia": "Richard Arum",
+	"theloai": "Tự truyện",
+	"danhgia": 3,
+	"linkImage": "bat-dinh-ve-hoc-thuat.jpg",
+	"date": "2017-11-02"
+},
+{
+	"ma": 7,
+	"ten": "Sự quyến rủ của chữ",
+	"gia": 76.0,
+	"tacgia": "Mai Sơn",
+	"theloai": "Tự truyện",
+	"danhgia": 5,
+	"linkImage": "su-quyen-ru-cua-chu.jpg",
+	"date": "2017-08-09"
+},
+{
+	"ma": 8,
+	"ten": "Forrest Gump",
+	"gia": 92.0,
+	"tacgia": "Winston Groom",
+	"theloai": "Truyện ngắn",
+	"danhgia": 4,
+	"linkImage": "forrest-gump.jpg",
+	"date": "2017-08-08"
+},
+{
+	"ma": 9,
+	"ten": "Hậu Duệ Mặt Trời",
+	"gia": 142.5,
+	"tacgia": "Son Hyun Kyoung",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 5,
+	"linkImage": "hau-due-mat-troi.jpg",
+	"date": "2017-05-07"
+},
+{
+	"ma": 10,
+	"ten": "Hành Trình Về Phương Đông",
+	"gia": 94.4,
+	"tacgia": "Blair T.Spalding",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 4,
+	"linkImage": "hanh-trinh-ve-phuong-dong.jpg",
+	"date": "2017-11-01"
+},
+{
+	"ma": 11,
+	"ten": "ADN Tình yêu",
+	"gia": 60.0,
+	"tacgia": "Dona Đỗ Ngọc",
+	"theloai": "Tự truyện",
+	"danhgia": 5,
+	"linkImage": "adn-tinh-yeu.jpg",
+	"date": "2017-10-22"
+},
+{
+	"ma": 12,
+	"ten": "Mùa Hè Đã Qua Mà Chúng Ta Chưa Thể Nói Lời Tạm Biệt",
+	"gia": 68.8,
+	"tacgia": "Higuchi Naoya",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 4,
+	"linkImage": "mua-he-da-qua-ma-chung-ta-chua-the-noi-loi-tam-biet.jpg",
+	"date": "2017-01-24"
+},
+{
+	"ma": 13,
+	"ten": "Bí Ẩn Của Vốn",
+	"gia": 71.2,
+	"tacgia": "Hermado de Soto",
+	"theloai": "Tự truyện",
+	"danhgia": 3,
+	"linkImage": "bi-an-cua-von.jpg",
+	"date": "2017-09-10"
+},
+{
+	"ma": 14,
+	"ten": "Tĩnh Lặng - Sức Mạng Tĩnh Lặng Trong Thế Giới Huyên Náo",
+	"gia": 47.2,
+	"tacgia": "Thích Nhất Hạnh",
+	"theloai": "Tự truyện",
+	"danhgia": 3,
+	"linkImage": "tinh-lang.jpg",
+	"date": "2017-08-10"
+},
+{
+	"ma": 15,
+	"ten": "Gã Nghiện Giày",
+	"gia": 128.0,
+	"tacgia": "Phil Knight",
+	"theloai": "Tự truyện",
+	"danhgia": 2,
+	"linkImage": "ga-nghien-giay.jpg",
+	"date": "2017-02-01"
+},
+{
+	"ma": 16,
+	"ten": "Ngày Tháng Thênh Thang",
+	"gia": 119.2,
+	"tacgia": "Bửu Ý",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 1,
+	"linkImage": "ngay-thang-thenh-thang.jpg",
+	"date": "2017-05-06"
+},
+{
+	"ma": 17,
+	"ten": "Thở Và Thiền",
+	"gia": 57.6,
+	"tacgia": "Nhiều tác giả",
+	"theloai": "Truyện ngắn",
+	"danhgia": 1,
+	"linkImage": "tho-va-thien.jpg",
+	"date": "2017-06-06"
+},
+{
+	"ma": 18,
+	"ten": "Wanna One Fanbook",
+	"gia": 52.5,
+	"tacgia": "Nhiều tác giả",
+	"theloai": "Truyện ngắn",
+	"danhgia": 1,
+	"linkImage": "wanna-one-fanbook.jpg",
+	"date": "2017-01-01"
+},
+{
+	"ma": 19,
+	"ten": "Từ Giọng Hát Em",
+	"gia": 144.0,
+	"tacgia": "Hoàng Phương Anh",
+	"theloai": "Tự truyện",
+	"danhgia": 5,
+	"linkImage": "bia-tu-giong-hat-em.jpg",
+	"date": "2017-08-15"
+},
+{
+	"ma": 20,
+	"ten": "Ngồi Khóc Trên Cây",
+	"gia": 93.5,
+	"tacgia": "Nguyễn Ngọc Ánh",
+	"theloai": "Tự truyện",
+	"danhgia": 5,
+	"linkImage": "ngoi-khoc-tren-cay.jpg",
+	"date": "2017-09-09"
+},
+{
+	"ma": 21,
+	"ten": "Thất Lạc Cõi Người",
+	"gia": 70.4,
+	"tacgia": "Dazai Osamu",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 3,
+	"linkImage": "that-lac-coi-nguoi.jpg",
+	"date": "2017-10-21"
+},
+{
+	"ma": 22,
+	"ten": "Có Cha Trong Đời",
+	"gia": 172.0,
+	"tacgia": "Nhiều tác giả",
+	"theloai": "Truyện ngắn",
+	"danhgia": 3,
+	"linkImage": "co-cha-trong-doi.jpg",
+	"date": "2017-10-30"
+},
+{
+	"ma": 23,
+	"ten": "Có Mẹ Trong Đời",
+	"gia": 188.0,
+	"tacgia": "Nhiều tác giả",
+	"theloai": "Truyện ngắn",
+	"danhgia": 3,
+	"linkImage": "co-me-trong-doi.jpg",
+	"date": "2017-10-24"
+},
+{
+	"ma": 24,
+	"ten": "Sát Nhân Đánh Số",
+	"gia": 64.0,
+	"tacgia": "Nhĩ Nhã",
+	"theloai": "Truyện Tranh",
+	"danhgia": 2,
+	"linkImage": "sat-nhan-danh-so.jpg",
+	"date": "2017-10-27"
+},
+{
+	"ma": 25,
+	"ten": "The Land of Stories",
+	"gia": 220.0,
+	"tacgia": "Chris Colfer",
+	"theloai": "Sách Tiếng Anh",
+	"danhgia": 2,
+	"linkImage": "the-land-of-stories.jpg",
+	"date": "2017-10-10"
+},
+{
+	"ma": 26,
+	"ten": "Pirates of the Caribbean",
+	"gia": 286.0,
+	"tacgia": "Disney StoryBook Art Team",
+	"theloai": "Sách Tiếng Anh",
+	"danhgia": 5,
+	"linkImage": "pirates-of-the-caribbean.jpg",
+	"date": "2017-11-04"
+},
+{
+	"ma": 27,
+	"ten": "Once Upon a Dream",
+	"gia": 220.0,
+	"tacgia": "Liz Braswell",
+	"theloai": "Sách Tiếng Anh",
+	"danhgia": 3,
+	"linkImage": "once-upon-a-dream.jpg",
+	"date": "2017-05-05"
+},
+{
+	"ma": 28,
+	"ten": "Despicable",
+	"gia": 154.0,
+	"tacgia": "Sadie Chesterfield",
+	"theloai": "Sách Tiếng Anh",
+	"danhgia": 1,
+	"linkImage": "despicable.jpg",
+	"date": "2017-07-07"
+},
+{
+	"ma": 29,
+	"ten": "The Little Prince",
+	"gia": 242.0,
+	"tacgia": "Antoine de Saint-Exupery",
+	"theloai": "Sách Tiếng Anh",
+	"danhgia": 3,
+	"linkImage": "the-little-prince.jpg",
+	"date": "2017-05-07"
+},
+{
+	"ma": 30,
+	"ten": "The Little Prince Graphic Novel",
+	"gia": 286.0,
+	"tacgia": "Antoine de Saint-Exupery",
+	"theloai": "Sách Tiếng Anh",
+	"danhgia": 3,
+	"linkImage": "the-little-prince-graphic-novel.jpg",
+	"date": "2017-08-08"
+},
+{
+	"ma": 31,
+	"ten": "Đường Xưa Mây Trắng - Theo Gót Chân Bụt",
+	"gia": 154.0,
+	"tacgia": "Thích Nhất Hạnh",
+	"theloai": "Tự truyện",
+	"danhgia": 5,
+	"linkImage": "duong-xua-may-trang-theo-got-chan-but.jpg",
+	"date": "2017-08-09"
+},
+{
+	"ma": 32,
+	"ten": "Có Lẽ Trời Nên Mưa Thêm Một Chút",
+	"gia": 60.0,
+	"tacgia": "Nhiều tác giả",
+	"theloai": "Truyện ngắn",
+	"danhgia": 4,
+	"linkImage": "co-le-troi-nen-mua-them-mot-chut.jpg",
+	"date": "2017-10-19"
+},
+{
+	"ma": 33,
+	"ten": "Ngọa Hổ Tàng Long",
+	"gia": 20.0,
+	"tacgia": "Vương Độ Lư",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 2,
+	"linkImage": "ngoa-ho-tang-long.jpg",
+	"date": "2017-11-07"
+},
+{
+	"ma": 34,
+	"ten": "Để Trở Thành Nhà Biên Kịch Phim Truyện",
+	"gia": 87.5,
+	"tacgia": "Nguyễn Quang Lập",
+	"theloai": "Truyện ngắn",
+	"danhgia": 3,
+	"linkImage": "de-tro-thanh-nha-bien-kich-phim-truyen.jpg",
+	"date": "2017-11-06"
+},
+{
+	"ma": 35,
+	"ten": "Truyện Tình Không Tên",
+	"gia": 134.4,
+	"tacgia": "Vũ Thành An",
+	"theloai": "Tự truyện",
+	"danhgia": 5,
+	"linkImage": "chuyen-tinh-khong-ten.jpg",
+	"date": "2017-10-14"
+},
+{
+	"ma": 36,
+	"ten": "Trời Vẫn Còn Xanh, Em Vẫn Còn Anh",
+	"gia": 62.3,
+	"tacgia": "Anh Khang",
+	"theloai": "Tự truyện",
+	"danhgia": 4,
+	"linkImage": "troi-van-con-xanh-em-van-con-anh.jpg",
+	"date": "2017-10-15"
+},
+{
+	"ma": 37,
+	"ten": "Quảng trường ngôi sao",
+	"gia": 52.0,
+	"tacgia": "ngôi sao",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 5,
+	"linkImage": "quangtruongngoisao.jpg",
+	"date": "2017-01-10"
+},
+{
+	"ma": 38,
+	"ten": "Khi hơi thở hoá thinh không",
+	"gia": 85.0,
+	"tacgia": "tác giả",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 5,
+	"linkImage": "khihoithohoathinhkhong.jpg",
+	"date": "2017-11-11"
+},
+{
+	"ma": 39,
+	"ten": "Trời vẫn còn xanh, em vẫn còn anh.",
+	"gia": 71.2,
+	"tacgia": "tác giả",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 4,
+	"linkImage": "troivanconxanh.jpg",
+	"date": "2017-11-04"
+},
+{
+	"ma": 40,
+	"ten": "Đèn không hắt bóng",
+	"gia": 158.0,
+	"tacgia": "tác giả",
+	"theloai": "Thám hiểm",
+	"danhgia": 4,
+	"linkImage": "denkhonghatbong.jpg",
+	"date": "2017-10-08"
+},
+{
+	"ma": 41,
+	"ten": "Hãy Tìm Tôi Giữa Cánh Đông",
+	"gia": 44.8,
+	"tacgia": "tác giả",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 5,
+	"linkImage": "haytimtoigiuacanhdong.jpg",
+	"date": "2017-10-06"
+},
+{
+	"ma": 42,
+	"ten": "Nghệ Thuật Quản Lý Nhân Sự",
+	"gia": 44.0,
+	"tacgia": "tác giả",
+	"theloai": "Nghệ thuật",
+	"danhgia": 3,
+	"linkImage": "nghethuatquanlynhansu.jpg",
+	"date": "2017-09-18"
+},
+{
+	"ma": 43,
+	"ten": "Đời Nghệ Sĩ - Không Chỉ Có Ánh Hào Quang",
+	"gia": 195.0,
+	"tacgia": "tác giả",
+	"theloai": "Nghệ thuật",
+	"danhgia": 4,
+	"linkImage": "doinghesi.jpg",
+	"date": "2017-10-15"
+},
+{
+	"ma": 44,
+	"ten": "Phát Triển Nghề Nghiệp",
+	"gia": 24.0,
+	"tacgia": "tác giả",
+	"theloai": "Nghề nghiệp",
+	"danhgia": 4,
+	"linkImage": "phattriennghenghiep.jpg",
+	"date": "2017-10-26"
+},
+{
+	"ma": 45,
+	"ten": "Thiền Quán Nghệ Thuật Sống",
+	"gia": 44.0,
+	"tacgia": "tác giả",
+	"theloai": "Đời sống",
+	"danhgia": 3,
+	"linkImage": "nghethuatsong.jpg",
+	"date": "2017-11-02"
+},
+{
+	"ma": 46,
+	"ten": "Gập Ghềnh Tuổi 20",
+	"gia": 58.0,
+	"tacgia": "tác giả",
+	"theloai": "Nghệ thuật",
+	"danhgia": 4,
+	"linkImage": "gapghenhtuoi20.jpg",
+	"date": "2017-11-01"
+},
+{
+	"ma": 47,
+	"ten": "Anh Ấy Không Nắm Tay Tôi",
+	"gia": 68.0,
+	"tacgia": "tác giả",
+	"theloai": "Nghệ thuật",
+	"danhgia": 5,
+	"linkImage": "anhaykhongnamtaytoi.jpg",
+	"date": "2017-10-08"
+},
+{
+	"ma": 48,
+	"ten": "Để Không Bao Giờ Thất Nghiệp",
+	"gia": 46.2,
+	"tacgia": "tác giả",
+	"theloai": "Nghệ thuật",
+	"danhgia": 4,
+	"linkImage": "khongabaogiothatnghiep.jpg",
+	"date": "2017-11-05"
+},
+{
+	"ma": 49,
+	"ten": "Thất Tình Không Sao",
+	"gia": 70.0,
+	"tacgia": "tác giả",
+	"theloai": "Tình cảm",
+	"danhgia": 5,
+	"linkImage": "thattinhkhongsao.jpg",
+	"date": "2017-10-11"
+},
+{
+	"ma": 50,
+	"ten": "Chạm Tới Giấc Mơ",
+	"gia": 80.0,
+	"tacgia": "tác giả",
+	"theloai": "Tình cảm",
+	"danhgia": 4,
+	"linkImage": "chamtoigiacmo.jpg",
+	"date": "2017-10-10"
+},
+{
+	"ma": 51,
+	"ten": "Những Câu Chuyện Thành Rome",
+	"gia": 68.0,
+	"tacgia": "tác giả",
+	"theloai": "Tiểu thuyết",
+	"danhgia": 5,
+	"linkImage": "nhungcauchuyenthanhrome.jpg",
+	"date": "2017-11-01"
+},
+{
+	"ma": 52,
+	"ten": "Tôi Tài Giỏi Bạn Cũng Thế",
+	"gia": 88.0,
+	"tacgia": "tác giả ",
+	"theloai": "Kỹ năng",
+	"danhgia": 5,
+	"linkImage": "toitaigioi.jpg",
+	"date": "2017-10-14"
+},
+{
+	"ma": 53,
+	"ten": "Tuổi Trẻ Đáng Giá Bao Nhiêu",
+	"gia": 57.0,
+	"tacgia": "tác giả",
+	"theloai": "Kỹ năng",
+	"danhgia": 5,
+	"linkImage": "tuoitredanggiabaonhieu.jpg",
+	"date": "2017-09-10"
+},
+{
+	"ma": 54,
+	"ten": "Vẫn Còn Kịp",
+	"gia": 89.7,
+	"tacgia": "tác giả",
+	"theloai": "Kỹ năng",
+	"danhgia": 5,
+	"linkImage": "vanconkip.jpg",
+	"date": "2017-02-14"
+},
+{
+	"ma": 55,
+	"ten": "Con Trai Kẻ Khủng Bố",
+	"gia": 90.0,
+	"tacgia": "tác giả",
+	"theloai": "Kỹ năng",
+	"danhgia": 5,
+	"linkImage": "contraikekhungbo.jpg",
+	"date": "2017-05-24"
+},
+{
+	"ma": 56,
+	"ten": "Người Lạ Trong Nhà",
+	"gia": 79.0,
+	"tacgia": "tác giả",
+	"theloai": "Hồi ký",
+	"danhgia": 4,
+	"linkImage": "nguoilatrongnha.jpg",
+	"date": "2017-07-17"
+},
+{
+	"ma": 57,
+	"ten": "Những Kẻ Hắc Ám",
+	"gia": 20.0,
+	"tacgia": "tác giả",
+	"theloai": "Hồi ký",
+	"danhgia": 4,
+	"linkImage": "nhungkehacam.jpg",
+	"date": "2017-05-27"
+},
+
+{
+	"ma": 58,
+	"ten": "22 nguyên tắc cơ bản của Marketing Thương Hiệu",
+	"gia": 80.0,
+	"tacgia": "Võ Văng Quang",
+	"theloai": "Kinh tế",
+	"danhgia": 4,
+	"linkImage": "22nguyentacmaketting.jpg",
+	"date": "2017-04-04"
+},
+
+{
+	"ma": 59,
+	"ten": "Quá lớn để gọi là nhỏ - Bỏ 1 đô kiếm Triệu đô",
+	"gia": 100.0,
+	"tacgia": "DOUG TATUM",
+	"theloai": "Kinh tế",
+	"danhgia": 4,
+	"linkImage": "qualondegoilanhobo1dokiemtientrieudo.jpg",
+	"date": "2017-06-23"
+},
+{
+	"ma": 60,
+	"ten": "Tất cả khách hàng để phi lí trí",
+	"gia": 60.0,
+	"tacgia": "William J.Cusick",
+	"theloai": "Kinh tế",
+	"danhgia": 4,
+	"linkImage": "tatcakhachhangdeuphilitri].jpg",
+	"date": "2017-08-22"
+},
+{
+	"ma": 61,
+	"ten": "Làm chủ Nghệ thuật bán hàng",
+	"gia": 60.0,
+	"tacgia": "Tom Hopkins",
+	"theloai": "Kinh tế",
+	"danhgia": 4,
+	"linkImage": "lamchunghethuatbanhang.jpg",
+	"date": "2017-07-21"
+},
+{
+	"ma": 62,
+	"ten": "Đọc vị bất kỳ ai",
+	"gia": 60.0,
+	"tacgia": "Tom Hopkins",
+	"theloai": "Kỹ năng",
+	"danhgia": 4,
+	"linkImage": "docvibatkyai.jpg",
+	"date": "2017-09-20"
+},
+{
+	"ma": 63,
+	"ten": "Đời người ngắn đừng ngủ dài",
+	"gia": 45.0,
+	"tacgia": "Robin Sharma",
+	"theloai": "Kỹ năng",
+	"danhgia": 4,
+	"linkImage": "doi-ngan-dung-ngu-dai.jpg",
+	"date": "2017-09-10"
+},
+
+{
+	"ma": 64,
+	"ten": "Làm như chơi ",
+	"gia": 45.0,
+	"tacgia": "Minh niệm",
+	"theloai": "Kỹ năng",
+	"danhgia": 4,
+	"linkImage": "lamnhuchoi.jpg",
+	"date": "2017-01-17"
+},
+{
+	"ma": 65,
+	"ten": "Đời thay đổi khi chúng ta thay đổi",
+	"gia": 100.0,
+	"tacgia": "Andrew Matthews",
+	"theloai": "Kỹ năng",
+	"danhgia": 4,
+	"linkImage": "doithaydoikhichungtathaydoi.jpg",
+	"date": "2017-05-05"
+},
+{
+	"ma": 66,
+	"ten": "Never eat alone",
+	"gia": 190.0,
+	"tacgia": "Keith Ferrazzi",
+	"theloai": "Kỹ năng",
+	"danhgia": 5,
+	"linkImage": "nevereatalone.jpg",
+	"date": "2017-06-16"
+},
+
+{
+	"ma": 67,
+	"ten": "Lục Vân Tiên",
+	"gia": 77.0,
+	"tacgia": "Nguyễn Đình Chiểu",
+	"theloai": "Văn học",
+	"danhgia": 4,
+	"linkImage": "lucvantien.jpg",
+	"date": "2017-07-17"
+},
+
+{
+	"ma": 68,
+	"ten": "Chuyện Kiều",
+	"gia": 49.0,
+	"tacgia": "Nguyễn Du",
+	"theloai": "Văn học",
+	"danhgia": 5,
+	"linkImage": "Truyenkieu.jpg",
+	"date": "2017-10-20"
+},
+
+{
+	"ma": 69,
+	"ten": "Tôi là 1 kẻ khác",
+	"gia": 79.0,
+	"tacgia": "Nhật Chiểu",
+	"theloai": "Văn học",
+	"danhgia": 4,
+	"linkImage": "toila1kekhac.jpg",
+	"date": "2017-10-10"
+},
+{
+	"ma": 70,
+	"ten": "Giỏ hoa thời mới lớn",
+	"gia": 88.0,
+	"tacgia": "Du Tử Lê",
+	"theloai": "Văn học",
+	"danhgia": 4,
+	"linkImage": "gio-hoa-thoi-moi-lon.jpg",
+	"date": "2017-08-05"
+},
+{
+	"ma": 71,
+	"ten": "Khi chúng ta đã già",
+	"gia": 88.0,
+	"tacgia": "Nguyễn Thị Việt Hà",
+	"theloai": "Văn học",
+	"danhgia": 4,
+	"linkImage": "khichungtadagia.jpg",
+	"date": "2017-08-29"
+},
+{
+	"ma": 72,
+	"ten": "Có một con phố vừa đi qua",
+	"gia": 54.0,
+	"tacgia": "Đinh Vũ Hoàng Nguyên",
+	"theloai": "Văn học",
+	"danhgia": 4,
+	"linkImage": "comotconphovuadiqua.jpg",
+	"date": "2017-09-09"
+},
+{
+	"ma": 73,
+	"ten": "Sống một cuộc đời bình thường",
+	"gia": 54.0,
+	"tacgia": "Nguyễn Phong Lê",
+	"theloai": "Văn học",
+	"danhgia": 4,
+	"linkImage": "song_mot_cuoc_doi_binh_thuong.jpg",
+	"date": "2017-09-10"
+},
+{
+	"ma": 74,
+	"ten": "Ngày anh không tìm em trong thành phố",
+	"gia": 57.0,
+	"tacgia": "Đàm Duy Đông",
+	"theloai": "Văn học",
+	"danhgia": 4,
+	"linkImage": "ngayanhkhongtimemtrongthanhpho.jpg",
+	"date": "2017-08-22"
+},
+{
+	"ma": 75,
+	"ten": "Có điều gì sao không nói cùng anh",
+	"gia": 99.0,
+	"tacgia": "Trần Việt Anh ",
+	"theloai": "Văn học",
+	"danhgia": 4,
+	"linkImage": "co-dieu-gisaokhongnoicunganh.jpg",
+	"date": "2017-07-21"
+},
+{
+	"ma": 75,
+	"ten": "Sự đã rồi anh ngồi anh hát",
+	"gia": 42.0,
+	"tacgia": "Lu ",
+	"theloai": "Văn học",
+	"danhgia": 4,
+	"linkImage": "sudaroianhngohat.jpg",
+	"date": "2017-05-05"
+},
+{
+	"ma": 76,
+	"ten": "Giữa trời đất là tình yêu",
+	"gia": 34.0,
+	"tacgia": "Vi Lam",
+	"theloai": "Văn học",
+	"danhgia": 4,
+	"linkImage": "bia-giua-troi-va-dat-200x280.jpg",
+	"date": "2017-04-04"
+},
+{
+	"ma": 77,
+	"ten": "Đi qua thương nhớ",
+	"gia": 88.0,
+	"tacgia": "Nguyễn Phong Việt",
+	"theloai": "Văn học",
+	"danhgia": 4,
+	"linkImage": "diquathuongnho.jpg",
+	"date": "2017-11-01"
+},
+{
+	"ma": 78,
+	"ten": "Màu rừng ruộng",
+	"gia": 52.0,
+	"tacgia": "Đỗ Tiến Thụy",
+	"theloai": "Văn học",
+	"danhgia": 2,
+	"linkImage": "maurungruong.jpg",
+	"date": "2017-01-15"
+},
+{
+	"ma": 79,
+	"ten": "Nếu chỉ còn một ngày để sống",
+	"gia": 65.0,
+	"tacgia": "Nicola Yoon",
+	"theloai": "Văn học",
+	"danhgia": 5,
+	"linkImage": "neuchiconmotngaydesong.jpg",
+	"date": "2017-03-22"
+},
+{
+	"ma": 80,
+	"ten": "Kể xong rồi đi",
+	"gia": 66.0,
+	"tacgia": "Nguyễn Bình Phương",
+	"theloai": "Văn học",
+	"danhgia": 5,
+	"linkImage": "ke-xong-roi-di.jpg",
+	"date": "2017-11-10"
+},
+{
+	"ma": 81,
+	"ten": "Tôi thấy hoa vàng trên cỏ xanh",
+	"gia": 66.0,
+	"tacgia": "Nguyễn Nhật Ánh",
+	"theloai": "Văn học",
+	"danhgia": 5,
+	"linkImage": "toi_thay_hoa_vang-200x280.jpg",
+	"date": "2017-11-11"
+},
+{
+	"ma": 82,
+	"ten": "Mực giấy và sao trời",
+	"gia": 80.0,
+	"tacgia": "Nguyễn Nhật Ánh",
+	"theloai": "Văn học",
+	"danhgia": 5,
+	"linkImage": "muc-giay-va-sao-troi.jpg",
+	"date": "2017-09-14"
+},
+{
+	"ma": 83,
+	"ten": "Căn phòng khóa",
+	"gia": 111.0,
+	"tacgia": "Emma Dibighue",
+	"theloai": "Văn học",
+	"danhgia": 5,
+	"linkImage": "canphongkhoa.jpg",
+	"date": "2017-07-15"
+},
+{
+	"ma": 84,
+	"ten": "Đường đua của những giấc mơ",
+	"gia": 51.0,
+	"tacgia": "Wendelin Van Draanen",
+	"theloai": "Văn học",
+	"danhgia": 5,
+	"linkImage": "duong-dua-cua-nhung-giac-mo.jpg",
+	"date": "2017-08-20"
+},
+{
+	"ma": 85,
+	"ten": "Và rồi núi vọng",
+	"gia": 134.0,
+	"tacgia": "Wendelin Van Draanen",
+	"theloai": "Văn học",
+	"danhgia": 5,
+	"linkImage": "va-roi-nui-vong.jpg",
+	"date": "2017-04-11"
+},
+{
+	"ma": 86,
+	"ten": "Bước chạy thanh xuân",
+	"gia": 46.0,
+	"tacgia": "Miura Shion",
+	"theloai": "Văn học",
+	"danhgia": 4,
+	"linkImage": "doithaydoikhichungtathaydoi.jpg",
+	"date": "2017-02-25"
+},
+{
+	"ma": 87,
+	"ten": "Hạ đỏ",
+	"gia": 74.0,
+	"tacgia": "Nguyễn Nhật Ánh",
+	"theloai": "Văn học",
+	"danhgia": 5,
+	"linkImage": "ha-do-200x280.jpg",
+	"date": "2017-01-01"
+},
+{
+	"ma": 88,
+	"ten": "Lời hồi đáp 1994",
+	"gia": 27.0,
+	"tacgia": "Lee Woo Jung, Oh Seung Hee",
+	"theloai": "Văn học",
+	"danhgia": 5,
+	"linkImage": "loihoidap1994.jpg",
+	"date": "2017-11-02"
+}
+]

@@ -1,0 +1,30 @@
+#tbl-thongke {
+    margin: 0 auto;
+    width: 75%;
+}
+#tbl-thongke td {
+    background-color: #FF2F2F2;
+}
+#tbl-thongke table {
+    border-collapse: collapse;
+}
+#tbl-thongke th, td {
+    border: 1px solid #008CBA;
+    padding: 0px 5px;
+}
+#tbl-thongke {
+    width: 70%;
+    margin-left: 15%;
+}
+#tbl-thongke th {
+    height: 50px;
+    text-align: left;
+    background-color: #E0F7FA;
+}
+#tbl-thongke td {
+    padding: 5px 0px 5px 5px;
+}
+
+#tbl-thongke tr:hover {
+    background-color: #F5F5F5;
+}

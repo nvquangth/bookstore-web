@@ -1,0 +1,112 @@
+*
+{
+	margin:0;
+	padding: 0;
+}
+
+header h1
+{
+	text-transform: uppercase;
+	text-align: center;
+}
+
+span
+{
+	color: #FF0000;
+}
+
+#edit-add-book
+{
+	width: 50%;
+	margin: 0 auto;
+}
+
+#edit-book h2
+{
+	text-transform: uppercase;
+	text-align: center;
+	background-color: #2196F3;
+	color: #FFF;
+	/*background: red;*/
+}
+
+#add-book
+{
+	/*margin: 0 auto;
+    width: 50%;*/
+}
+
+#add-book h2
+{
+	text-transform: uppercase;
+	text-align: center;
+	background-color: #3F51B5;
+	color: #FFF;
+}
+
+.frm-input input[type=text], .frm-input input[type=password] {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 5px 0px 35px 0px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #008CBA;
+}
+.frm-input input[type=text]:focus, .frm-input input[type=password]:focus {
+    background-color: #E0F7FA;
+}
+.frm-input input[type=submit], .frm-input button {
+    cursor: pointer;
+    margin-top: 10px;
+    background-color: #008CBA;
+    color: #FFF;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 30px;
+    text-transform: uppercase;
+}
+
+.frm-input form button {
+    background-color: #123;
+}
+
+.frm-input form button a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+#all-sach
+{
+	width: 80%;
+	margin: 0 auto;
+}
+
+#tbl-sach {
+    margin: 0 auto;
+    width: 75%;
+}
+#tbl-sach td {
+    background-color: #FF2F2F2;
+}
+#tbl-sach {
+    border-collapse: collapse;
+}
+#tbl-sach th, td {
+    border: 1px solid #008CBA;
+}
+#tbl-sach {
+    width: 100%;
+}
+#tbl-sach th {
+    height: 50px;
+    text-align: left;
+    background-color: #E0F7FA;
+}
+#tbl-sach td {
+    padding: 5px 0px 5px 5px;
+}
+
+#edit-book
+{
+	display: none;
+}
